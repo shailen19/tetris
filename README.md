@@ -15,11 +15,11 @@ The game features a simple, user-friendly interface that allows for easy navigat
 1.	Ensure you have Python 3.12 installed on your system.
 2.	Download or clone the repository to your local machine.
 3.	Navigate to the project directory in Terminal.
-4.	Run the game using the command python3 SimpleTetris.py
+4.	Run the game using the command python3 Tetris.py
 
 **Usage**
 
-In terminal, Run the game using the command python3 SimpleTetris.py
+In terminal, Run the game using the command python3 Tetris.py
 
 **Controls**
 
