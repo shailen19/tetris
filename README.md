@@ -33,5 +33,5 @@ In terminal, Run the game using the command python3 Tetris.py
 
 **Restart**
 
-To restart the game exit out of the game window and run python3 SimpleTetris.py in terminal again.
+To restart the game exit out of the game window and run python3 Tetris.py in terminal again.
 
